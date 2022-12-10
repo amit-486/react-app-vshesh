@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09bb833c.css",
+    "main.js": "/static/js/main.b235a377.js",
+    "static/js/787.2be84fa0.chunk.js": "/static/js/787.2be84fa0.chunk.js",
+    "static/media/eye-closed.png": "/static/media/eye-closed.d280f050cbb5ac9f729a.png",
+    "static/media/trailhead.webp": "/static/media/trailhead.5097ddf8c7f09e653da4.webp",
+    "index.html": "/index.html",
+    "main.09bb833c.css.map": "/static/css/main.09bb833c.css.map",
+    "main.b235a377.js.map": "/static/js/main.b235a377.js.map",
+    "787.2be84fa0.chunk.js.map": "/static/js/787.2be84fa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09bb833c.css",
+    "static/js/main.b235a377.js"
+  ]
+}
